@@ -7,7 +7,7 @@ const url = "https://type.fit/api/quotes";
 
 const App = () => {
   const [quotes, setQuotes] = useState([]);
-  const [loading, setLoading] = useState(false);
+  const [loading, setLoading] = useState(true);
 
   const getQuotes = () => {
     setLoading(true);
