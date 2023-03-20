@@ -8,9 +8,9 @@
 
 :root {
   /* -------text sizes---------------- */
-  --quoteText-size: 2.8rem;
+  --quoteText-size: 2.6rem;
   --quoteLeft-size: 2rem;
-  --quoteAuthor: 1.8rem;
+  --quoteAuthor: 1.6rem;
   --font-family: "Itim", "sans-serif";
 
   /* ------medium device text sizes--------- */
