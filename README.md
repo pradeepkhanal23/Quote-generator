@@ -49,7 +49,7 @@ This project is licensed under the [MIT License](LICENSE).
 
 If you have any questions or suggestions, feel free to reach out.
 
-Your Name
+My info:
 
 - Email: pradeepkhanal642@gmail.com
 - GitHub: [Pradeep Khanal](https://github.com/pradeepkhanal23)
