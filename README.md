@@ -52,4 +52,3 @@ If you have any questions or suggestions, feel free to reach out.
 My info:
 
 - Email: pradeepkhanal642@gmail.com
-- GitHub: [Pradeep Khanal](https://github.com/pradeepkhanal23)
